@@ -1,24 +1,26 @@
-# Hello There Good Things
+# Your Perfect Playlist
 
-hi
+Premium Plug X — IPTV playlist aggregator converted to a Lovable-hosted React + TypeScript web app.
 
 This project was built with [Lovable](https://lovable.dev).
 
+## Features
+
+- Aggregates playlists from multiple IPTV sources (Jio TV+, JioHotstar, FanCode, SonyLIV, Dangal, VZY, etc.)
+- M3U playlist parsing and generation
+- Genre-based classification and sorting
+- Static channel packs (FanCode, SonyLIV Events, Dangal Play, Sun NXT)
+- Compatible with TiviMate, IPTV Smarters, VLC, Kodi, Sparkle TV, NS Player, OTT Navigator
+
 ## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/65f2efe7-d732-4b0f-bf26-8da9744084a4).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/31f90c3d-7290-4780-8a94-f8fb89b4212a).
 
 ## Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
+git clone https://github.com/bmera5952-cpu/your-perfect-playlist.git
+cd your-perfect-playlist
 npm i
 npm run dev
 ```
